@@ -1,0 +1,13 @@
+body{background:#007D67}
+h1{color: blue;}
+.mytext{background-color: rgb(230, 230, 41);}
+a{text-decoration: none; }
+a:hover{color: blueviolet;}
+nav{
+    background-color: rgb(90, 32, 32);
+    border:#007D67;
+    
+}
+
+.pick1{width: 10%;
+margin: 2%;}
